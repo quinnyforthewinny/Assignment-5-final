@@ -1,0 +1,9 @@
+Hunter 	Quinlan	12345678	Cyber Security 	
+James 	Woods	12345689	Film Production	
+George 	Lucas	12345679	Philosophy	
+Tom 	Cruise	12345897	Religious Studies	
+Quinlan	Hunter	20	Male	
+Quinlan	Curran	22	Male	
+Bickford	Kristina	25	Female	
+Kazansky	Thomas	25	Female	
+
